@@ -1,0 +1,17 @@
+{
+  "name": "com.fintokmak.audiosystem",
+  "version": "0.0.2",
+  "displayName": "Audio System",
+  "description": "This is a audio system that supports audio mixing and dynamic control.",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "license": "GPL",
+  "dependencies": {
+  },
+  "keywords": [
+  ],
+  "author": {
+    "name": "FinTOKMAK Studio",
+    "email": "fangjun.zhou02@gmail.com"
+  }
+}
