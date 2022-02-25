@@ -2,7 +2,8 @@
     "name": "AudioSystem.Runtime",
     "rootNamespace": "",
     "references": [
-        "NaughtyAttributes.Core"
+        "NaughtyAttributes.Core",
+        "SerializableDict.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
